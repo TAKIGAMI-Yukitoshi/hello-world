@@ -1,4 +1,4 @@
 <?php
-echo 'Hello, php World!';
-exit;
+    echo 'Hello, php World!';
+    exit;
 ?>
